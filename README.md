@@ -245,3 +245,5 @@ This project is **not affiliated with, endorsed by, or associated with Discord I
 ---
 
 If something is missing in this document, please open an [issue](https://github.com/DragonJules/ShopBot/issues).
+#   S l u g B o t  
+ 
